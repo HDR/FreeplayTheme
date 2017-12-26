@@ -44,8 +44,8 @@ license:		MIT
 		</image>
 
 		<helpsystem name="help">
-			<textColor>000000</textColor>
-			<iconColor>000000</iconColor>
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
 			<fontPath>./_inc/fonts/Square.ttf</fontPath>
 			<fontSize>0.04</fontSize>
 		</helpsystem>
